@@ -1,0 +1,17 @@
+.menu {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0.8);
+            color: white;
+            padding: 10px;
+            text-align: center;
+            z-index: 1;
+        }
+        .menu a {
+            color: white;
+            text-decoration: none;
+            margin: 0 10px;
+            z-index: 1;
+        }
